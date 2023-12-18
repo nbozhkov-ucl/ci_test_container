@@ -62,3 +62,5 @@ Update your workflow to use the following actions with the indicated versions.  
 |[Docker Login](https://github.com/marketplace/actions/docker-login)|`docker/login-action@v2.1.0`|
 |[Docker Metadata action](https://github.com/marketplace/actions/docker-metadata-action)|`docker/metadata-action@v4.4.0`|
 |[Build and push Docker images](https://github.com/marketplace/actions/build-and-push-docker-images)|`docker/build-push-action@v4.0.0`|
+
+Small change to trigger workflow.
